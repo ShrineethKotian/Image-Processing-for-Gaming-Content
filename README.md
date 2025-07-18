@@ -1,5 +1,5 @@
-# Computer Vision Praktikum Project, 2025 – University of Würzburg 
-## Image-Processing-for-Gaming-Content
+# Computer Vision Praktikum Project, 2025 – Image-Processing-for-Gaming-Content
+## University of Würzburg
 A 3-part pipeline to make synthetic game images more realistic using ISP, Super-Resolution, and GAN discriminators. Improves color, detail, and realism with FID/KID evaluation against Cityscapes.
 
 This repository contains a modular pipeline to enhance photorealism in synthetic video game imagery (GTA5) using three core components:
