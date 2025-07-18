@@ -85,7 +85,15 @@ To use this dataset:
 1. Go to the above link.
 2. Download the dataset (you may need a Kaggle account).
 3. Extract the images and place them inside a folder like `dataset/` within the ISP pipeline directory.
-
+4. The folder structure should look like:
+```bash
+dataset/
+└── 01_images/
+    └── images/
+        ├── 00001.png
+        ├── 00002.png
+        └── ...
+```
 
 ## 🧪 Evaluation
 
