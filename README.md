@@ -88,6 +88,9 @@ Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
 📄 References
 [1] Salmi et al. “Generative Adversarial Shaders for Real-Time Realism Enhancement.” ArXiv, 2023.
+
 [2] NILUT: https://github.com/mv-lab/nilut
+
 [3] Playing for Data: Synthetic dataset from GTA5
+
 [4] Cityscapes Dataset for Real-World Benchmarking
