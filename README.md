@@ -60,29 +60,29 @@ Ensure that datasets (e.g., Playing for Data, Cityscapes) are downloaded and pla
 
 Each team member’s code is self-contained in their branch:
 
-branch: isp-pipeline → Shrineeth
+- branch: isp-pipeline → Shrineeth
 
-branch: super-resolution → Ganesh
+- branch: super-resolution → Ganesh
 
-branch: gan-discriminators → Aishwarya
+- branch: gan-discriminators → Aishwarya
 
 To test any pipeline:
 
-Switch to the respective branch.
+1. Switch to the respective branch.
 
-Open the .ipynb notebook file.
+2. Open the .ipynb notebook file.
 
-Follow the in-notebook instructions (dataset paths, parameters, model loading).
+3. Follow the in-notebook instructions (dataset paths, parameters, model loading).
 
-Output will be saved to /kaggle/working/ or configured path.
+4. Output will be saved to /kaggle/working/ or configured path.
 
 ## 🧪 Evaluation
 
-Evaluation is performed using FID and KID metrics with Cityscapes as the ground truth.
+- Evaluation is performed using FID and KID metrics with Cityscapes as the ground truth.
 
-Consistent folder structure and image counts are used for fair comparison with previous baselines (CUT, MUNIT, Color Transfer).
+- Consistent folder structure and image counts are used for fair comparison with previous baselines (CUT, MUNIT, Color Transfer).
 
-Example:
+- Example:
 
 ```bash
 FID (Raw GTA): ~120
@@ -91,11 +91,11 @@ FID (Final ISP): 53.5
 
 ## 👥 Authors
 
-Shrineeth Kotian – shrineeth.kotian@stud-mail.uni-wuerzburg.de
+- Shrineeth Kotian – shrineeth.kotian@stud-mail.uni-wuerzburg.de
 
-Ganesh Gopalakrishna – ganesh-maudghalya.hassan-gopalakrishna@stud-mail.uni-wuerzburg.de
+- Ganesh Gopalakrishna – ganesh-maudghalya.hassan-gopalakrishna@stud-mail.uni-wuerzburg.de
 
-Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
+- Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
 ## 📄 References:
 
