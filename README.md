@@ -34,7 +34,7 @@ Author: Aishwarya Rao
 
 Benchmarking of efficient GAN discriminators (MobileNetV3, Swin-T, ConvNeXt, VGG) suitable for low-compute photorealism.
 
-⚙️ Installation
+## ⚙️ Installation
 
 To run the notebooks:
 
@@ -56,7 +56,7 @@ pip install clean-fid
 
 Ensure that datasets (e.g., Playing for Data, Cityscapes) are downloaded and placed in the expected folders.
 
-🚀 Running the Pipelines
+## 🚀 Running the Pipelines
 
 Each team member’s code is self-contained in their branch:
 
@@ -76,7 +76,7 @@ Follow the in-notebook instructions (dataset paths, parameters, model loading).
 
 Output will be saved to /kaggle/working/ or configured path.
 
-🧪 Evaluation
+## 🧪 Evaluation
 
 Evaluation is performed using FID and KID metrics with Cityscapes as the ground truth.
 
@@ -89,7 +89,7 @@ FID (Raw GTA): ~120
 FID (Final ISP): 53.5
 ```
 
-👥 Authors
+## 👥 Authors
 
 Shrineeth Kotian – shrineeth.kotian@stud-mail.uni-wuerzburg.de
 
@@ -97,7 +97,7 @@ Ganesh Gopalakrishna – ganesh-maudghalya.hassan-gopalakrishna@stud-mail.uni-wu
 
 Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
-📄 References:
+## 📄 References:
 
 [1] Salmi et al. “Generative Adversarial Shaders for Real-Time Realism Enhancement.” ArXiv, 2023.
 
