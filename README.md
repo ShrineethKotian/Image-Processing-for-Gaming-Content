@@ -97,6 +97,8 @@ FID (Final ISP): 53.5
 
 - Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
+## 📄 [Final Report](report/final_report.pdf)
+
 ## 📄 References:
 
 [1] Salmi et al. “Generative Adversarial Shaders for Real-Time Realism Enhancement.” ArXiv, 2023.
