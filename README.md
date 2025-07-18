@@ -85,8 +85,8 @@ To test any pipeline:
 - Example:
 
 ```bash
-FID (Raw GTA): ~120
-FID (Final ISP): 53.5
+FID (Raw GTA): ~120   KID (Raw GTA): >100
+FID (Final ISP): 53.54   KID (Final ISP): 60.97
 ```
 
 ## 👥 Authors
