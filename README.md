@@ -45,9 +45,9 @@ To run the notebooks:
 
 If using NILUT:
 
-Download pretrained NILUT weights from the official NILUT repo
+- Download pretrained NILUT weights from the official NILUT repo
 
-Place them under ./models/weights/nilutx3style.pt or update the path in your code
+- Place them under ./models/weights/nilutx3style.pt or update the path in your code
 
 For FID/KID metrics:
 ```bash
