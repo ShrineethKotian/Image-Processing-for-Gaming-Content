@@ -4,28 +4,31 @@ A 3-part pipeline to make synthetic game images more realistic using ISP, Super-
 # CV Praktikum – Photorealism Enhancement Pipeline
 This repository contains a modular pipeline to enhance photorealism in synthetic video game imagery (GTA5) using three core components:
 
-Image Signal Processing (ISP)
+1. Image Signal Processing (ISP)
 
-Super-Resolution (SR)
+2. Super-Resolution (SR)
 
-Lightweight Discriminator Models for GANs
+3. Lightweight Discriminator Models for GANs
 
 Each branch contains code and documentation for one component, developed by a different team member.
 
 📦 Structure
 The project is split into three parts:
 
-Neural Image Signal Processing (ISP) for Photorealism
+1. Neural Image Signal Processing (ISP) for Photorealism
 Author: Shrineeth Kotian
 Lightweight hybrid ISP pipeline that includes white balance, color correction, adaptive gamma, CLAHE, NILUT, vignette, sharpening, etc.
 
-Enhancing Game Visuals using Super-Resolution and Image Restoration
+2. Enhancing Game Visuals using Super-Resolution and Image Restoration
 Author: Ganesh Gopalakrishna 
 Evaluation of SR models like RealESRGAN, SwinIR, StableSR, and NAFNET using synthetic degradation tailored for gaming imagery.
 
-Lightweight Discriminator Architectures for Realism-Guided GANs
+3. Lightweight Discriminator Architectures for Realism-Guided GANs
 Author: Aishwarya G. Rao 
 Benchmarking of efficient GAN discriminators (MobileNetV3, Swin-T, ConvNeXt, VGG) suitable for low-compute photorealism.
 
 ⚙️ Installation
 To run the notebooks:
+
+pip install -r requirements.txt
+
