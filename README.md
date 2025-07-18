@@ -13,7 +13,7 @@ This repository contains a modular pipeline to enhance photorealism in synthetic
 
 Each branch contains code and documentation for one component, developed by a different team member.
 
-#📦 Structure
+## 📦 Structure
 The project is split into three parts:
 
 1. Neural Image Signal Processing (ISP) for Photorealism
