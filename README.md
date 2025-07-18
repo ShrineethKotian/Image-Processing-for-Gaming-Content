@@ -34,7 +34,7 @@ Author: Aishwarya Rao
 
 Benchmarking of efficient GAN discriminators (MobileNetV3, Swin-T, ConvNeXt, VGG) suitable for low-compute photorealism.
 
-## ⚙️ Installation
+## ⚙ Installation
 
 To run the notebooks:
 
@@ -76,7 +76,7 @@ To test any pipeline:
 
 4. Output will be saved to /kaggle/working/ or configured path.
 
-## 🗃️ Dataset Used
+## 📁🗃 Dataset Used
 
 We use the GTA5 subset from the Kaggle dataset: [Playing For Data (GTA5)](https://www.kaggle.com/datasets/aishwaryagrao/playing-for-data)
 
