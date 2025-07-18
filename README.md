@@ -32,3 +32,4 @@ To run the notebooks:
 
 '''pip install -r requirements.txt'''
 
+<pre> ```bash pip install -r requirements.txt ``` ```bash pip install torch==<your_version> ``` </pre>
