@@ -97,7 +97,7 @@ FID (Final ISP): 53.5
 
 - Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
-## 📄 [Final Report](report/final_report.pdf)
+## 📄 [Final Report (Google Drive)](https://drive.google.com/file/d/1TEPzNhwM1OxkG3kbKZwBEA2nVXaVkgjZ/view?usp=sharing)
 
 ## 📄 References:
 
