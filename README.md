@@ -1,7 +1,7 @@
 # Image-Processing-for-Gaming-Content
 A 3-part pipeline to make synthetic game images more realistic using ISP, Super-Resolution, and GAN discriminators. Improves color, detail, and realism with FID/KID evaluation against Cityscapes.
 
-# CV Praktikum – Photorealism Enhancement Pipeline
+# Computer Vision Praktikum Project, 2025 – University of Würzburg – Photorealism Enhancement Pipeline
 
 This repository contains a modular pipeline to enhance photorealism in synthetic video game imagery (GTA5) using three core components:
 
