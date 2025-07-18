@@ -76,6 +76,17 @@ To test any pipeline:
 
 4. Output will be saved to /kaggle/working/ or configured path.
 
+## Dataset Used
+
+We use the GTA5 subset from the Kaggle dataset: [Playing For Data (GTA5)](https://www.kaggle.com/datasets/aishwaryagrao/playing-for-data)
+
+To use this dataset:
+
+1. Go to the above link.
+2. Download the dataset (you may need a Kaggle account).
+3. Extract the images and place them inside a folder like `dataset/` within the ISP pipeline directory.
+
+
 ## 🧪 Evaluation
 
 - Evaluation is performed using FID and KID metrics with Cityscapes as the ground truth.
