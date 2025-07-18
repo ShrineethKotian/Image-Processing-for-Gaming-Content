@@ -86,7 +86,8 @@ Ganesh Gopalakrishna – ganesh-maudghalya.hassan-gopalakrishna@stud-mail.uni-wu
 
 Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
 
-📄 References
+📄 References:
+
 [1] Salmi et al. “Generative Adversarial Shaders for Real-Time Realism Enhancement.” ArXiv, 2023.
 
 [2] NILUT: https://github.com/mv-lab/nilut
