@@ -32,5 +32,6 @@ To run the notebooks:
 
 '''pip install -r requirements.txt'''
 
-<pre> ```bash pip install -r requirements.txt ``` 
- </pre>
+```bash
+  pip install -r requirements.txt
+```
