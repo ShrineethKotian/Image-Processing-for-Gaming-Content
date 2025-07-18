@@ -45,7 +45,7 @@ To run the notebooks:
 
 If using NILUT:
 
-- Download pretrained NILUT weights from the [official NILUT GitHub repository](https://github.com/mv-lab/nilut)
+- Download pretrained NILUT weights from the official [NILUT GitHub repository](https://github.com/mv-lab/nilut)
 
 - Place them under ./models/weights/nilutx3style.pt or update the path in your code
 
