@@ -30,5 +30,5 @@ Benchmarking of efficient GAN discriminators (MobileNetV3, Swin-T, ConvNeXt, VGG
 ⚙️ Installation
 To run the notebooks:
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
