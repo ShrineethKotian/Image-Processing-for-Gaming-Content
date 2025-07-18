@@ -30,8 +30,64 @@ Benchmarking of efficient GAN discriminators (MobileNetV3, Swin-T, ConvNeXt, VGG
 ⚙️ Installation
 To run the notebooks:
 
-'''pip install -r requirements.txt'''
 
 ```bash
   pip install -r requirements.txt
 ```
+
+If using NILUT:
+
+Download pretrained NILUT weights from the official NILUT repo
+
+Place them under ./models/weights/nilutx3style.pt or update the path in your code
+
+For FID/KID metrics:
+```bash
+pip install clean-fid
+```
+
+Ensure that datasets (e.g., Playing for Data, Cityscapes) are downloaded and placed in the expected folders.
+
+🚀 Running the Pipelines
+Each team member’s code is self-contained in their branch:
+
+branch: isp-pipeline → Shrineeth
+
+branch: super-resolution → Ganesh
+
+branch: gan-discriminators → Aishwarya
+
+To test any pipeline:
+
+Switch to the respective branch.
+
+Open the .ipynb notebook file.
+
+Follow the in-notebook instructions (dataset paths, parameters, model loading).
+
+Output will be saved to /kaggle/working/ or configured path.
+
+🧪 Evaluation
+Evaluation is performed using FID and KID metrics with Cityscapes as the ground truth.
+
+Consistent folder structure and image counts are used for fair comparison with previous baselines (CUT, MUNIT, Color Transfer).
+
+Example:
+
+```bash
+FID (Raw GTA): ~120
+FID (Final ISP): 53.5
+```
+
+👥 Authors
+Shrineeth Kotian – shrineeth.kotian@stud-mail.uni-wuerzburg.de
+
+Ganesh Gopalakrishna – ganesh-maudghalya.hassan-gopalakrishna@stud-mail.uni-wuerzburg.de
+
+Aishwarya G. Rao – aishwarya.rao@stud-mail.uni-wuerzburg.de
+
+📄 References
+[1] Salmi et al. “Generative Adversarial Shaders for Real-Time Realism Enhancement.” ArXiv, 2023.
+[2] NILUT: https://github.com/mv-lab/nilut
+[3] Playing for Data: Synthetic dataset from GTA5
+[4] Cityscapes Dataset for Real-World Benchmarking
