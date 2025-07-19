@@ -6,7 +6,7 @@ This repository contains a modular pipeline to enhance photorealism in synthetic
 
 1. Image Signal Processing (ISP)
 
-2. Super-Resolution (SR)
+2. Super-Resolution (SR) and Image restoration
 
 3. Lightweight Discriminator Models for GANs
 
@@ -25,7 +25,7 @@ Lightweight hybrid ISP pipeline that includes white balance, color correction, a
 
 Author: Ganesh Gopalakrishna 
 
-Evaluation of SR models like RealESRGAN, SwinIR, StableSR, and NAFNET using synthetic degradation tailored for gaming imagery.
+Evaluation of SR models like RealESRGAN, SwinIR and StableSR, and Image restoration with NAFNET using synthetic degradation tailored for gaming imagery.
 
 3. Lightweight Discriminator Architectures for Realism-Guided GANs
 
