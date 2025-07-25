@@ -7,7 +7,7 @@ This folder contains side-by-side video comparisons (before vs after) demonstrat
 ## 🎥 Sample Outputs
 
 ### 🎬 Day Scene (Before vs After)
-[▶️ Watch Video](sample_outputs_isp/comparison.mp4)
+[▶️ Watch Video](sample_outputs_isp/comparison.gif)
 
 ### 🌙 Night Scene (Before vs After)
-[▶️ Watch Video](sample_outputs_isp/gta_before_after_night.mp4)
+[▶️ Watch Video](sample_outputs_isp/gta_before_after_night.gif)
