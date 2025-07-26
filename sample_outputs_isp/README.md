@@ -10,5 +10,5 @@ This folder contains side-by-side video comparisons (before vs after) demonstrat
 ![Day Comparison](gta_before_after_day.gif)
 
 ### 🌙 Night Scene (Before vs After)
-![Night Comparison](sample_outputs_isp/gta_before_after_night.gif)
+![Night Comparison](gta_before_after_night.gif)
 
