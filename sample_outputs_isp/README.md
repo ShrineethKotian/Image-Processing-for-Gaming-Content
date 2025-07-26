@@ -4,7 +4,7 @@ This folder contains side-by-side video comparisons (before vs after) demonstrat
 → Right: Enhanced using our pipeline (NILUT, CCM, WB, etc.)
 
 
-### ## 🎥 Sample Outputs
+### 🎥 Sample Outputs
 
 ### 🕛 Day Scene (Before vs After)
 ![Day Comparison](gta_before_after_day.gif)
